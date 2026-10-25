@@ -1,0 +1,6 @@
+{
+  "name": "HillYeah",
+  "description": "South African hiking and wellness community app to discover trails across all 9 provinces, join and host group hikes, and connect in nature.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
